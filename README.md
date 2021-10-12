@@ -26,4 +26,13 @@
 * обводка(с помощью div)
 
 ![b11](https://user-images.githubusercontent.com/60944202/132108480-20b5c417-c564-4058-952b-0585df9e0857.png)
-![b22](https://user-images.githubusercontent.com/60944202/132108482-f4ed70c0-00d4-4082-b915-cccea9a7d72b.png)
+![b12](https://user-images.githubusercontent.com/60944202/132108482-f4ed70c0-00d4-4082-b915-cccea9a7d72b.png)
+
+## Social icons
+
+* эффект при наведении
+
+![b21](https://user-images.githubusercontent.com/60944202/136947580-c967eb0b-1c69-47fe-a795-be52fbc71221.png)
+
+
+
